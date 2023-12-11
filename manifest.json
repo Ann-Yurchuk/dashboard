@@ -1,0 +1,45 @@
+{
+  "name": "App",
+  "icons": [
+    {
+      "src": "/dashboard-72.png",
+      "sizes": "72×72",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-96.png",
+      "sizes": "96×96",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-safari-57.png",
+      "sizes": "57×57",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-safari-60.png",
+      "sizes": "60×60",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-safari-72.png",
+      "sizes": "72×72",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-web-16.png",
+      "sizes": "16×16",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-web-32.png",
+      "sizes": "32×32",
+      "type": "image/png"
+    },
+    {
+      "src": "/dashboard-web-96.png",
+      "sizes": "96×96",
+      "type": "image/png"
+    }
+  ]
+}
